@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
 ---
 
-Hi, this is my little blog.
 
-Keeping it minimal for now.
+Hey there! This is my blog
 
-Enjoy
+
+Thanks for stoping by!
